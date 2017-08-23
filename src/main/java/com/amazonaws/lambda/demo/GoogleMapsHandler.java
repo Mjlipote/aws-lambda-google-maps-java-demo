@@ -1,3 +1,7 @@
+/*
+ * @author Ming-Jheng Li
+ */
+
 package com.amazonaws.lambda.demo;
 
 import static com.google.common.collect.Maps.newHashMap;
